@@ -159,4 +159,7 @@ projeto/
 
 ---
 
-*Anotações de estudo produzidas para portfólio pessoal de projetos de orquestração de dados na AWS, com exemplos e diagramas autorais.*
+### 👨‍💻 Autoria e Notas Finais
+
+* **Por:** Enner Sebastião Garcia
+* **Nota:** Todas as imagens foram produzidas por IA.
