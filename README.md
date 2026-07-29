@@ -137,21 +137,6 @@ Em workflows **Standard**, a cobrança é por transição de estado. Em **Expres
 - Nomeie os estados de forma descritiva — o nome aparece no console visual, o que ajuda demais na hora de depurar uma execução.
 - Habilite logging no CloudWatch para auditar o histórico completo de cada execução.
 
-## Estrutura sugerida do repositório
-
-```
-projeto/
-├── README.md
-├── assets/
-│   └── diagramas.svg
-├── statemachine/
-│   └── pipeline-transacoes.asl.json
-├── lambdas/
-│   └── validar_qualidade/
-└── infra/
-    └── template.yaml   # AWS SAM / CloudFormation / Terraform
-```
-
 ## Referências
 
 - [AWS Step Functions — documentação oficial](https://aws.amazon.com/step-functions/)
